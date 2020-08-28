@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8355fa75-4034-4ba8-a21c-439ffc9697c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\workApp\apache-maven-3.6.3\repository" />
+        <option name="userSettingsFile" value="D:\workApp\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gfCBaa81lkbXagvkd5y4SBynDY" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-sso-server8202/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.23793103" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAProjectList\springboot-sso\springboot-sso-server8201\src\main\resources\templates" />
+      <recent name="D:\IDEAProjectList\springboot-sso\springboot-sso-server8201\src\main\resources\templates\look" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.xuxing.sso.server.entity" />
+      <recent name="top.xuxing.sso.server.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAProjectList\springboot-sso\springboot-sso-server8202\src\main\resources" />
+      <recent name="D:\IDEAProjectList\springboot-sso\springboot-sso-auth8203\src\main\resources" />
+      <recent name="D:\IDEAProjectList\springboot-sso\springboot-sso-server8201\src\main\resources\templates" />
+      <recent name="D:\IDEAProjectList\springboot-sso\springboot-sso-server8201\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Server8202Application">
+    <configuration name="Server8201Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-sso-server8201" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xuxing.sso.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.xuxing.sso.server.Server8201Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server8202Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-sso-server8202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.xuxing.sso.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.xuxing.sso.server.Server8202Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Server8202Application" />
+        <item itemvalue="Spring Boot.Server8201Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8355fa75-4034-4ba8-a21c-439ffc9697c1" name="Default Changelist" comment="" />
+      <created>1598496124895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598496124895</updated>
+      <workItem from="1598496128434" duration="19984000" />
+      <workItem from="1598522068080" duration="810000" />
+      <workItem from="1598575785974" duration="3615000" />
+      <workItem from="1598583026329" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="696" y="251" width="732" height="590" key="#com.intellij.ide.util.MemberChooser" timestamp="1598514674944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="696" y="251" width="732" height="590" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598514674944" />
+    <state x="775" y="301" key="FileChooserDialogImpl" timestamp="1598511039321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="301" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598511039321" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1598579307935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598579307935" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1598579307935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598579307935" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1598579307935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598579307935" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1598579307935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598579307935" />
+    <state width="1877" height="254" key="GridCell.Tab.1.bottom" timestamp="1598579307930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598579307930" />
+    <state width="1877" height="254" key="GridCell.Tab.1.center" timestamp="1598579307930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598579307930" />
+    <state width="1877" height="254" key="GridCell.Tab.1.left" timestamp="1598579307930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598579307930" />
+    <state width="1877" height="254" key="GridCell.Tab.1.right" timestamp="1598579307930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598579307930" />
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom" timestamp="1598577555467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598577555467" />
+    <state width="1877" height="352" key="GridCell.Tab.2.center" timestamp="1598577555465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598577555465" />
+    <state width="1877" height="352" key="GridCell.Tab.2.left" timestamp="1598577555465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598577555465" />
+    <state width="1877" height="352" key="GridCell.Tab.2.right" timestamp="1598577555465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598577555465" />
+    <state x="656" y="317" key="NewModule_or_Project.wizard" timestamp="1598496491156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="317" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598496491156" />
+    <state x="496" y="188" key="SettingsEditor" timestamp="1598499075501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="496" y="188" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598499075501" />
+    <state x="369" y="207" key="new project wizard" timestamp="1598517232657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="369" y="207" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598517232657" />
+  </component>
+</project>
